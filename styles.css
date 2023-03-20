@@ -3,6 +3,7 @@ body {
     text-align: center;
 }
 
+h2,
 a {
     text-decoration: none;
     color: cadetblue;
@@ -20,6 +21,10 @@ hr {
 button {
     margin: 10px;
     background-color: lightyellow;
+}
+
+div {
+    text-align: center;
 }
 
 .big-title {
