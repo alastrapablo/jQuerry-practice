@@ -1,0 +1,33 @@
+body {
+    background-color: lightyellow;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: cadetblue;
+    font-family: cursive;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: cadetblue;
+    border-width: 10px;
+    width: 6%;
+}
+
+button {
+    margin: 10px;
+    background-color: lightyellow;
+}
+
+.big-title {
+    font-size: 10rem;
+    color: cadetblue;
+    font-family: cursive;
+}
+
+.margin-50 {
+    margin: 50px;
+}
